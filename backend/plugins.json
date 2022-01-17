@@ -1,0 +1,6 @@
+{
+	"inventory.js":{
+		"enabled":true,
+		"path":"./plugins/inventory.js"
+	}
+}
